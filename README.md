@@ -1,6 +1,4 @@
-# Evaluating England’s 2012
-suicide prevention strategy: An interrupted time series evaluating national and
-local trends in suicide rates, 2002–2022 
+# Evaluating England’s 2012 suicide prevention strategy: An interrupted time series evaluating national and local trends in suicide rates, 2002–2022 
 
 This repository contains the code used for a study examining the effect of the UKs 2012 suicide prevention scheme on suicide trends in England. It is intended to support the accompanying paper published in **BMJ Mental Health DOI**.
 
